@@ -1,0 +1,30 @@
+#dawn {
+  position: fixed;
+  top: 0;
+  left: 0;
+  opacity: 0;
+  height: 100vh;
+  min-width: 100vw;
+  object-fit: cover;
+  animation: fadeInOutAnimation ease 20s;
+  animation-iteration-count: infinite;
+  animation-fill-mode: forwards;
+}
+
+#dawn-pic {
+  height: 100vh;
+  object-fit: cover;
+  min-width: 100vw;
+}
+
+@keyframes fadeInOutAnimation {
+  0% {
+    opacity: 0;
+  }
+  50% {
+    opacity: 1;
+  }
+  100% {
+    opacity: 0;
+  }
+}

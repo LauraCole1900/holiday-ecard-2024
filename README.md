@@ -49,6 +49,8 @@ npm run test
 
 Star favicon by [Iconpacks](https://iconpacks.net/?utm_source=link-attribution&utm_content=7224)
 
+Photographs copyright © [Laura E. Cole](https://lcolearts.com)
+
 ## Contributing
 
 N/A
@@ -59,4 +61,4 @@ If you have further questions, you can reach me at lauracole1900@comcast.net. Fo
 
 ## Badges
 
-[![License badge](https://img.shields.io/badge/license-MIT-000019)](./LICENSE)
+[![License badge](https://img.shields.io/badge/license-MIT-d35434)](./LICENSE)
